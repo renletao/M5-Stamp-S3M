@@ -1,1 +1,1 @@
-# M5-Stamp-S3M
+This firmware serves as a test case for the M5 STAMP S3M.
